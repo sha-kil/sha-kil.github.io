@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Picking point from a disk with uniform distribution"
-date:   2019-03-20 21:32:02 -0400
+date:   2019-02-06 21:32:02 -0400
 categories: math THREE-js
 ---
 
