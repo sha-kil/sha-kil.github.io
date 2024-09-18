@@ -22,7 +22,7 @@ const y = Math.sqrt(u) * Math.sin(theta)
 ## Useful Links
 
 1. <a href="https://apps.dtic.mil/sti/pdfs/ADA626479.pdf" target="_blank">Point Picking and Distributing on the Disc and Sphere</a>
-2. <a href="https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/x786f2022:polar-spherical-cylindrical-coordinates/a/triple-integrals-in-spherical-coordinates" target="_blank">Triple integrals in spherical coordinates</a>
+2. <a href="https://byjus.com/maths/sector-of-a-circle/">Sector Of A Circle</a>
 
 
 <script type="importmap">
